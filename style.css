@@ -1,0 +1,31 @@
+section{
+    background-image: url("images/bg-main.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed; */
+    
+    height: 50vh; 
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 100px;
+    
+   
+}
+
+.National {
+   font-size: 50px;
+}
+.football{
+   margin-left: 30px;
+   font-size: 50px;
+}
+.league{
+   margin-left: 80px;
+   font-size: 50px;
+}
+.details{
+   margin-left: 120px;
+   font-size: 50px;
+  
+}
